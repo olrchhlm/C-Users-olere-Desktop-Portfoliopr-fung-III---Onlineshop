@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Catalog
+comment0.text=\r\n\ Handles\ a\ catalog\ with\ Products\ and\ their\ prices.\r\n\r\n\ @author\ Reichhelm,\ Witt\r\n\ @version\ 2018-09-04\r\n
+comment1.params=
+comment1.target=Catalog()
+comment2.params=productName\ productPrice
+comment2.target=void\ addProduct(java.lang.String,\ int)
+comment3.params=productName\ productPrice
+comment3.target=void\ updateProduct(java.lang.String,\ int)
+comment4.params=productName
+comment4.target=void\ deleteProduct(java.lang.String)
+comment5.params=productName
+comment5.target=void\ showProduct(java.lang.String)
+comment6.params=productName
+comment6.target=void\ productNotFound(java.lang.String)
+comment7.params=productName
+comment7.target=int\ getProductPrice(java.lang.String)
+comment8.params=productName
+comment8.target=boolean\ hasProduct(java.lang.String)
+comment9.params=value
+comment9.target=java.lang.String\ convertCentToEuro(int)
+numComments=10
